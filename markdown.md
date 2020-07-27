@@ -14,16 +14,16 @@
 
 - `图片` \!\[![图片](https://img.shields.io/badge/github-yzy613-00acd7)\](https://img.shields.io/badge/github-yzy613-00acd7)
 
-- `参考式` \[[网站][1]\]\[1\]  
+- `参考式` \[[GitHub][1]\]\[1\]  
 `别忘了后面还要写下面这一行`
 ```
-[1]:https://yzyweb.cn
+[1]:https://github.com/yzy613
 ````
 
-- 自动链接 \<<https://yzyi.top>\>
+- 自动链接 \<<https://github.com/yzy613>\>
 
 
-[1]:https://yzyweb.cn
+[1]:https://github.com/yzy613
 
 ## 列表
 ### 无序列表
