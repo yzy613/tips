@@ -30,23 +30,23 @@
 
 ## 硬盘
 ### 固态
-- M.2 (NVMe) 500GB
+- M.2 (NVMe)
   > [[京东] 西部数据（Western Digital）500GB SSD固态硬盘 M.2接口（NVMe协议）WD Blue SN550 五年质保 四通道PCIe](https://item.jd.com/100005926989.html) ￥649 (479) `截止于2020年7月29日`
 
 ### 机械
-- 7200r/min 3.5英寸
+- 1TB 7200r/min 3.5英寸
   > [[京东] 西部数据(WD)蓝盘 1TB SATA6Gb/s 7200转64MB 台式机械硬盘(WD10EZEX)](https://item.jd.com/675971.html) ￥299 `截止于2020年7月29日`
 
   > [[淘宝] FUN科技电脑WD/西部数据 1T台式机械硬盘西数WD10EZEX单碟蓝盘64M](https://item.taobao.com/item.htm?id=604045103173) ￥279 `截止于2020年7月29日`
 
-- 5400r/min 2.5英寸
+- 1TB 5400r/min 2.5英寸
   > [[京东] 西部数据(WD)蓝盘 1TB 5400转128M SATA6Gb/s 笔记本硬盘(WD10SPZX)](https://item.jd.com/5237926.html) ￥319 `截止于2020年7月29日`
 
 ## 主板
-- PCIe3.0 M.2`x1` 1Gpbs WiFi5
+- ITX PCIe3.0 M.2`x1` 1Gpbs WiFi5
   > [[京东] 玩家国度 REPUBLIC OF GAMERS ROG STRIX B450-I GAMING主板（AMD B450/socket AM4）](https://item.jd.com/100010049592.html) ￥1099 `截止于2020年7月29日`
 
-- PCIe4.0 M.2`x2` 2.5Gpbs WiFi6
+- ITX PCIe4.0 M.2`x2` 2.5Gpbs WiFi6
   > [[京东] 玩家国度（ROG）ROG STRIX B550-I GAMING主板 支持 CPU3700X/3800X/3900X（AMD B550/socket AM4）](https://item.jd.com/100007523963.html) ￥1699 `截止于2020年7月29日`
 
 ## 散热
