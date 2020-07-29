@@ -8,4 +8,7 @@ Will write some tips here.
 归档了一些 Markdown 语法
 
 ### Purchase Computer Tips
-- [desktop.md](https://github.com/yzy613/tips/blob/master/computer/desktop.md)
+- [desktop.md](https://github.com/yzy613/tips/blob/master/computer/desktop.md)  
+桌面电脑
+- [peripherals.md](https://github.com/yzy613/tips/blob/master/computer/peripherals.md)  
+外设
