@@ -10,5 +10,7 @@ Will write some tips here.
 ### Purchase Computer Tips
 - [desktop.md](https://github.com/yzy613/tips/blob/master/computer/desktop.md)  
 桌面电脑
+- [laptop.md](https://github.com/yzy613/tips/blob/master/computer/laptop.md)  
+笔记本电脑
 - [peripherals.md](https://github.com/yzy613/tips/blob/master/computer/peripherals.md)  
 外设
