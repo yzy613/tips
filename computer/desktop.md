@@ -34,10 +34,10 @@
 
 ## 硬盘
 ### 固态
-- M.2 (NVMe) 500GB
+- M.2`NVMe` 500GB
   > [[京东] 西部数据（Western Digital）500GB SSD固态硬盘 M.2接口（NVMe协议）WD Blue SN550 五年质保 四通道PCIe](https://item.jd.com/100005926989.html) ￥479 (649) `截止于2020年7月29日`
 
-- M.2 (NVMe) 1TB
+- M.2`NVMe` 1TB
   > [[京东] 西部数据（Western Digital）1TB SSD固态硬盘 M.2接口（NVMe协议）WD Blue SN550 五年质保 四通道PCIe](https://item.jd.com/100005926991.html) ￥859 (999) `截止于2020年7月30日`
 
 ### 机械
