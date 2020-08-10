@@ -21,16 +21,16 @@
 
 ## 内存
 - DDR4 3200MHz 8GB
-  > [[京东] 美商海盗船(USCORSAIR)DDR4 3200 8GB 台式机内存条 复仇者LPX系列](https://item.jd.com/7294123.html) ￥269 `截止于2020年7月29日`
+  > [[京东] 美商海盗船(USCORSAIR)DDR4 3200 8GB 台式机内存条 复仇者LPX系列](https://item.jd.com/7294123.html) ￥259 (389) `截止于2020年8月4日`
 
 - DDR4 3200MHz 16GB
-  > [[京东] 美商海盗船(USCORSAIR)DDR4 3200 16GB 台式机内存条 复仇者LPX系列](https://item.jd.com/7706381.html) ￥469 (699) `截止于2020年7月30日`
+  > [[京东] 美商海盗船(USCORSAIR)DDR4 3200 16GB 台式机内存条 复仇者LPX系列](https://item.jd.com/7706381.html) ￥468 (699) `截止于2020年8月4日`
 
 - DDR4 3600MHz 8GB`x2`
   > [[京东] 美商海盗船(USCORSAIR) DDR4 3600 16GB(8G×2)套装 台式机内存 复仇者LPX系列](https://item.jd.com/100003383025.html) ￥599 (859) `截止于2020年7月30日`
 
 - DDR4 3600MHz 16GB
-  > [[京东] 美商海盗船(USCORSAIR) DDR4 3600 16GB 台式机内存 复仇者LPX系列](https://item.jd.com/100005578866.html) ￥599 (759) `截止于2020年7月29日`
+  > [[京东] 美商海盗船(USCORSAIR) DDR4 3600 16GB 台式机内存 复仇者LPX系列](https://item.jd.com/100005578866.html) ￥579 (759) `截止于2020年8月4日`
 
 ## 硬盘
 ### 固态
