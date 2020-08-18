@@ -18,7 +18,7 @@
   > [[京东] 七彩虹（Colorful）火神 iGame GeForce RTX 2060 SUPER Vulcan OC 1650--1815MHz GDDR6 8G电竞游戏显卡](https://item.jd.com/100004037301.html) ￥3399 (3499) `截止于2020年7月29日`
 
 - GeForce RTX 2070 SUPER
-  > [[京东] 七彩虹（Colorful）iGame GeForce RTX 2070 SUPER Advanced OC 1770--1815MHz GDDR6 8G](https://item.jd.com/100006564782.html) ￥3999 (4199) `截止于2020年8月10日`
+  > [[京东] 七彩虹（Colorful）iGame GeForce RTX 2070 SUPER Advanced OC 1770--1815MHz GDDR6 8G](https://item.jd.com/100006564782.html) ￥3949 (4199) `截止于2020年8月18日`
 
 ## 内存
 - DDR4 3200MHz 8GB
